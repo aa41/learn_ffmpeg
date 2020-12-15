@@ -1,0 +1,3 @@
+# ninja log v5
+0	421	1608019803	CMakeFiles/native-lib.dir/native-lib.cpp.o	8c1bd32bffac6929
+421	459	1608019803	/Users/apple/ma/learnffmpeg/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	dc55820db147148

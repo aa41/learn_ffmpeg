@@ -1,0 +1,3 @@
+/Users/apple/ma/learn_ffmpeg/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/apple/ma/learn_ffmpeg/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/apple/ma/learn_ffmpeg/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/native-lib.dir
